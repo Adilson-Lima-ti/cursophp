@@ -33,7 +33,6 @@
 		linha($semana);
 	}
 
-
 ?>
 <table border="1">
 	<tr>
